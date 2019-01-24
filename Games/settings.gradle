@@ -1,0 +1,5 @@
+rootProject.name = 'Game'
+include 'Client'
+include 'Server'
+include 'Utility'
+
